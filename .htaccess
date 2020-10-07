@@ -1,0 +1,70 @@
+DirectoryIndex ng-home.php
+Options -Indexes
+RewriteEngine On
+
+RewriteRule ^home$ ng-home.php
+
+RewriteRule ^blog$ ng-blog.php
+
+RewriteRule ^schools$ ng-schools.php
+
+RewriteRule ^download$ ng-download.php
+
+RewriteRule ^download/([a-zA-Z0-9_.-]+)$ ng-download.php?file=$1
+
+RewriteRule ^our-history$ ng-history.php
+
+RewriteRule ^mission-and-vision$ ng-mission.php
+
+RewriteRule ^testimony$ ng-testimony.php
+
+RewriteRule ^faqs$ ng-faq.php
+
+RewriteRule ^contact-us$ ng-contact.php
+
+RewriteRule ^signin$ ng-login.php
+
+RewriteRule ^logout/([a-zA-Z0-9_-]+)$ ng-logout.php?token=$1
+
+RewriteRule ^logout$ ng-logout.php?token=$1
+
+RewriteRule ^logout/$ ng-logout.php?token=$1
+
+
+RewriteRule ^signup$ ng-register.php
+
+RewriteRule ^privacy-policy$ ng-policies.php
+
+RewriteRule ^me$ ng-me.php
+
+RewriteRule ^destinations$ ng-destinations.php
+
+RewriteRule ^service-bookings$ ng-bookings.php
+
+RewriteRule ^visa-application$ ng-visas.php
+
+RewriteRule ^school/([a-zA-Z0-9_-]+)$ ng-schools.php?schoolslug=$1
+
+RewriteRule ^blog-$ ng-blog.php
+
+RewriteRule ^destinations-$ ng-destinations.php
+
+RewriteRule ^visa-application/$ ng-visas.php
+
+RewriteRule ^blog/$ ng-blog.php
+
+RewriteRule ^blog-([a-zA-Z0-9_-]+)$ ng-blog.php?page=$1
+
+RewriteRule ^destinations-(\d+)$ ng-destinations.php?page=$1
+
+RewriteRule ^visa-application/(\d+)$ ng-visas.php?page=$1
+
+RewriteRule ^blog/([a-zA-Z0-9_-]+)$ ng-blog.php?blogslug=$1
+
+RewriteRule ^services$ ng-services.php
+
+RewriteRule ^logout-([a-zA-Z0-9_-]+)$ logout.php?token=$1
+
+RewriteRule ^logout$ logout.php?token=$1
+
+RewriteRule ^logout-$ logout.php?token=$1

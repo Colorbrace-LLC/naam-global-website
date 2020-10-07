@@ -1,0 +1,52 @@
+[15-Jul-2020 16:26:45 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to undefined function htmlspecialchars_encode() in C:\xampp\htdocs\includes\functions.php:411
+Stack trace:
+#0 C:\xampp\htdocs\includes\functions.php(172): test_input('Prince Takyi Ak...')
+#1 C:\xampp\htdocs\includes\processor.php(4): submitContact()
+#2 {main}
+  thrown in C:\xampp\htdocs\includes\functions.php on line 411
+[15-Jul-2020 16:26:57 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to undefined function htmlspecialchars_encode() in C:\xampp\htdocs\includes\functions.php:411
+Stack trace:
+#0 C:\xampp\htdocs\includes\functions.php(172): test_input('Prince Takyi Ak...')
+#1 C:\xampp\htdocs\includes\processor.php(4): submitContact()
+#2 {main}
+  thrown in C:\xampp\htdocs\includes\functions.php on line 411
+[15-Jul-2020 16:27:39 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in C:\xampp\htdocs\includes\functions.php:193
+Stack trace:
+#0 C:\xampp\htdocs\includes\processor.php(4): submitContact()
+#1 {main}
+  thrown in C:\xampp\htdocs\includes\functions.php on line 193
+[15-Jul-2020 16:27:54 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in C:\xampp\htdocs\includes\functions.php:193
+Stack trace:
+#0 C:\xampp\htdocs\includes\processor.php(4): submitContact()
+#1 {main}
+  thrown in C:\xampp\htdocs\includes\functions.php on line 193
+[15-Jul-2020 16:28:28 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in C:\xampp\htdocs\includes\functions.php:193
+Stack trace:
+#0 C:\xampp\htdocs\includes\processor.php(4): submitContact()
+#1 {main}
+  thrown in C:\xampp\htdocs\includes\functions.php on line 193
+[15-Jul-2020 16:29:00 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in C:\xampp\htdocs\includes\functions.php:193
+Stack trace:
+#0 C:\xampp\htdocs\includes\processor.php(4): submitContact()
+#1 {main}
+  thrown in C:\xampp\htdocs\includes\functions.php on line 193
+[15-Jul-2020 16:29:24 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in C:\xampp\htdocs\includes\functions.php:193
+Stack trace:
+#0 C:\xampp\htdocs\includes\processor.php(4): submitContact()
+#1 {main}
+  thrown in C:\xampp\htdocs\includes\functions.php on line 193
+[16-Jul-2020 14:05:50 Africa/Accra] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\includes\processor.php on line 73
+[17-Jul-2020 12:13:23 Africa/Accra] PHP Notice:  Undefined variable: module_name in C:\xampp\htdocs\includes\processor.php on line 123
+[17-Jul-2020 12:13:23 Africa/Accra] PHP Notice:  Undefined variable: module_val in C:\xampp\htdocs\includes\processor.php on line 132
+[17-Jul-2020 21:04:19 Africa/Accra] PHP Notice:  Undefined index: title in C:\xampp\htdocs\includes\processor.php on line 192
+[18-Jul-2020 14:32:12 Africa/Accra] PHP Notice:  Undefined index: dvid in C:\xampp\htdocs\includes\processor.php on line 208
+[18-Jul-2020 14:35:41 Africa/Accra] PHP Notice:  Undefined index: image in C:\xampp\htdocs\includes\processor.php on line 310
+[18-Jul-2020 15:15:00 Africa/Accra] PHP Notice:  Undefined index: image in C:\xampp\htdocs\includes\processor.php on line 310
+[23-Jul-2020 20:28:50 Africa/Accra] PHP Notice:  Undefined index: module_name in C:\xampp\htdocs\includes\processor.php on line 120
+[23-Jul-2020 20:29:01 Africa/Accra] PHP Notice:  Undefined index: module_name in C:\xampp\htdocs\includes\processor.php on line 120
+[23-Jul-2020 20:29:04 Africa/Accra] PHP Notice:  Undefined index: module_name in C:\xampp\htdocs\includes\processor.php on line 120
+[23-Jul-2020 20:29:15 Africa/Accra] PHP Notice:  Undefined index: module_name in C:\xampp\htdocs\includes\processor.php on line 120
+[23-Jul-2020 20:29:17 Africa/Accra] PHP Notice:  Undefined index: module_name in C:\xampp\htdocs\includes\processor.php on line 120
+[23-Jul-2020 20:29:18 Africa/Accra] PHP Notice:  Undefined index: module_name in C:\xampp\htdocs\includes\processor.php on line 120
+[23-Jul-2020 20:29:23 Africa/Accra] PHP Notice:  Undefined index: module_name in C:\xampp\htdocs\includes\processor.php on line 120
+[27-Jul-2020 14:35:30 Africa/Accra] PHP Notice:  Undefined variable: ouput in C:\xampp\htdocs\includes\processor.php on line 516

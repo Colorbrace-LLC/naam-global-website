@@ -1,0 +1,6 @@
+DirectoryIndex nmc-index.php
+
+Options -Indexes
+RewriteEngine On
+
+RewriteRule ^home$ nmc-index.php

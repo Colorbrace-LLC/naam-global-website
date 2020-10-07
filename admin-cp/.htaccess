@@ -1,0 +1,81 @@
+DirectoryIndex ng-home.php
+Options -Indexes
+RewriteEngine On
+
+RewriteRule ^dashboard$ ng-home.php
+
+RewriteRule ^login$ ng-login.php
+
+RewriteRule ^students/manage$ ng-students.php
+
+RewriteRule ^students/manage/([a-zA-Z0-9_-]+)$ ng-students.php?studentslug=$1
+
+RewriteRule ^students/manage/$ ng-students.php?studentslug=$1
+
+RewriteRule ^students/application$ ng-application.php
+
+RewriteRule ^students/application/([a-zA-Z0-9_-]+)$ ng-application.php?applicationslug=$1
+
+RewriteRule ^tours/booking$ ng-tour.php
+
+RewriteRule ^tours/booking/([a-zA-Z0-9_-]+)$ ng-tour.php?tourslug=$1
+
+RewriteRule ^tours/manage$ ng-tours.php
+
+RewriteRule ^tours/booking$ ng-bookings.php
+
+RewriteRule ^logout/([a-zA-Z0-9_-]+)$ ng-logout.php?token=$1
+
+RewriteRule ^tours/booking/([a-zA-Z0-9_-]+)$ ng-tours.php?bookingslug=$1
+
+RewriteRule ^visa/manage$ ng-visa.php
+
+RewriteRule ^school/courses$ ng-courses.php
+
+RewriteRule ^school/reviews$ ng-reviews.php
+
+RewriteRule ^services/manage$ ng-services.php
+
+RewriteRule ^services/categories$ ng-services_cat.php
+
+RewriteRule ^services/bookings$ ng-service_book.php
+
+RewriteRule ^blog/add$ ng-blog.php
+
+RewriteRule ^staff/add$ ng-staff.php
+
+RewriteRule ^subscribers$ ng-subscribers.php
+
+RewriteRule ^contacts$ ng-contacts.php
+
+RewriteRule ^settings$ ng-settings.php
+
+RewriteRule ^testimony/add$ ng-testimony.php
+
+RewriteRule ^visa/applications$ ng-visa_apply.php
+
+RewriteRule ^visa/applications/([a-zA-Z0-9_-]+)$ ng-visa_apply.php?visaslug=$1
+
+RewriteRule ^school/manage$ ng-schools.php
+
+RewriteRule ^school/manage/([a-zA-Z0-9_-]+)$ ng-schools.php?schoolslug=$1
+
+RewriteRule ^blog/manage$ ng-blog_manage.php
+
+RewriteRule ^blog/manage/([a-zA-Z0-9_-]+)$ ng-blog_manage.php?blogslug=$1
+
+RewriteRule ^staff/manage$ ng-staff_manage.php
+
+RewriteRule ^staff/manage/([a-zA-Z0-9_-]+)$ ng-staff_manage.php?staffslug=$1
+
+RewriteRule ^compose$ ng-compose.php
+
+RewriteRule ^profile$ ng-profile.php
+
+RewriteRule ^compose/([^/]*)/?([^/]*)?$ ng-compose.php?composeslug=$1&nameslug=$2
+
+RewriteRule ^testimony/manage$ ng-testimony_manage.php
+
+RewriteRule ^testimony/manage/([a-zA-Z0-9_-]+)$ ng-testimony_manage.php?testimonyslug=$1
+
+ErrorDocument 404 /admin-cp/ng-error.php
