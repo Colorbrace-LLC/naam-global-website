@@ -6,209 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6015a960-172e-434b-bcee-c89b291e7393" name="Default Changelist" comment="finished">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/67046596-c651-4bff-a4f8-488467fa22b7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/67046596-c651-4bff-a4f8-488467fa22b7/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/errors.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-application.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-blog.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-blog_manage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-bookings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-compose.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-contacts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-courses.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-error.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-home.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-profile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-reviews.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-schools.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-service_book.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-services_cat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-settings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-staff.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-staff_manage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-students.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-subscribers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-testimony.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-testimony_manage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-tour.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-tours.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-visa.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/ng-visa_apply.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin-cp/processor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/iziToast.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/naam-dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/naam-home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/themify-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/gijgo-materialba15.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/gijgo-materialba15.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/gijgo-materialba15.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/gijgo-materialba15.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/slickd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/themify9f24.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/themify9f24.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/themify9f24.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/themify9f24.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/themifyd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/20201004202014457553746.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/auth.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/bookings.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/check-mark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clint-mckoy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/destinations.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/docx-file.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/effect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/grey-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/hotel-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/image-file.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/image_placeholder.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/inner-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/label.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/login.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/map-image.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/pdf-file.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/pdf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/placeholder.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/schools-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/schools.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/services.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/sidebar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/stage-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tours.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/visa-application.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/visa-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/zig-zag-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/zig-zag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/apexcharts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/core/bootstrap-material-design.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/core/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/core/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/dash-controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/footer-reveal.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/iziToast.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery-3.5.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.magnific-popup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.ripples.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/lazysizes.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/naam-dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/plugins/bootstrap-selectpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/plugins/jasny-bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/plugins/jquery.dataTables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/plugins/perfect-scrollbar.jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/rating.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/zoom-gallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/captcha/actionj.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/captcha/backgrounds/45-degree-fabric.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/captcha/backgrounds/cloth-alike.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/captcha/backgrounds/grey-sandbag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/captcha/backgrounds/kinda-jean.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/captcha/backgrounds/polyester-lite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/captcha/backgrounds/stitched-wool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/captcha/backgrounds/white-carbon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/captcha/backgrounds/white-wave.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/captcha/fonts/times_new_yorker.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/captcha/generatecaptcha.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/captcha/monofont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/dbcon.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/dbconerror.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/errors.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/private.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/processor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/src/Exception.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/src/OAuth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/src/PHPMailer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/src/POP3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/src/SMTP.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-blog.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-bookings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-destinations.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-download.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-faq.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-history.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-home.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-me.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-mission.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-policies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-schools.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-students.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-testimony.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-tours.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-visa.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng-visas.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nmc/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nmc/duplicates.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nmc/html/ROSEMOND AYERKIE DONKOR_1601507938.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nmc/html/ROSEMOND AYERKIE DONKOR_1601508107.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nmc/html/SLEDGE R. ALANDO_1601508155.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nmc/nmc-index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nmc/nmc.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nmc/nmcpix/ROSEMOND AYERKIE DONKOR_1601508107.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nmc/nmcpix/SLEDGE R. ALANDO_1601508155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nmc/processor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nmc/simple_html_dom.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nmc/txt/ROSEMOND AYERKIE DONKOR_1601507938.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nmc/txt/ROSEMOND AYERKIE DONKOR_1601508107.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nmc/txt/SLEDGE R. ALANDO_1601508155.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nmc/wan.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,6 +61,7 @@
       <workItem from="1597675488005" duration="950000" />
       <workItem from="1602076711210" duration="1112000" />
       <workItem from="1602077922210" duration="1787000" />
+      <workItem from="1602080488339" duration="1221000" />
     </task>
     <task id="LOCAL-00001" summary="finished">
       <created>1602078512931</created>
@@ -271,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602078512931</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed bugs and updated project">
+      <created>1602081150688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602081150688</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,7 +127,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished" />
+    <MESSAGE value="fixed bugs and updated project" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed bugs and updated project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="4" key="#Deployment" timestamp="1602078539398">
@@ -344,14 +151,18 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="411" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1602077530289" />
+    <state x="253" y="88" key="IDE.errors.dialog" timestamp="1602081484968">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="253" y="88" key="IDE.errors.dialog/0.0.1280.689@0.0.1280.689" timestamp="1602081484968" />
     <state x="132" y="0" key="SettingsEditor" timestamp="1602078329068">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="132" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1602078329068" />
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1602079249384">
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1602081388333">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1602079249384" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1602081388333" />
     <state x="458" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602078798850">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
